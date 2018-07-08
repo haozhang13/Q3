@@ -1,0 +1,6 @@
+D:\vs2012 Test\2,ceshi\Test1\Test1\Q3\Q3\bin\Debug\Q3.exe.config
+D:\vs2012 Test\2,ceshi\Test1\Test1\Q3\Q3\obj\Debug\Q3.csprojResolveAssemblyReference.cache
+D:\vs2012 Test\2,ceshi\Test1\Test1\Q3\Q3\bin\Debug\Q3.exe
+D:\vs2012 Test\2,ceshi\Test1\Test1\Q3\Q3\bin\Debug\Q3.pdb
+D:\vs2012 Test\2,ceshi\Test1\Test1\Q3\Q3\obj\Debug\Q3.exe
+D:\vs2012 Test\2,ceshi\Test1\Test1\Q3\Q3\obj\Debug\Q3.pdb
